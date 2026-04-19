@@ -1,4 +1,5 @@
 # git-learning
 This is my first Git Repository 
 <br>
-Author - Sujal Mushyaju
+Author - Sujal (Mushyaju)
+
